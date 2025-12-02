@@ -1,3 +1,3 @@
 # auto-dev-next
 
-> Coming soon (before 2026.04.01)
+move to https://github.com/unit-mesh/auto-dev 
